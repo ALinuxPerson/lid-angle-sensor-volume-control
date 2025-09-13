@@ -1,0 +1,11 @@
+[package]
+name = "lid-angle-sensor"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.99"
+objc2-audio-toolbox = "0.3.1"
+objc2-core-audio = "0.3.1"
+objc2-core-foundation = "0.3.1"
+objc2-io-kit = "0.3.1"
